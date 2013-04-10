@@ -93,6 +93,19 @@
     <item msgid="6367044185730295334">"Bloqueada"</item>
     <item msgid="503942654197908005">"Inhabilitando conexión inestable temporalmente..."</item>
   </string-array>
+  <string-array name="wifi_countrycode_entries">
+    <item>Estados Unidos</item>
+    <item>Canadá, Taiwán</item>
+    <item>Alemania</item>
+    <item>Europa</item>
+    <item>Japón, Rusia</item>
+    <item>Australia</item>
+    <item>China</item>
+    <item>Corea</item>
+    <item>Turquía</item>
+    <item>Singapur</item>
+    <item>Brasil</item>
+  </string-array>
   <string-array name="wifi_status_with_ssid">
     <item msgid="7714855332363650812"></item>
     <item msgid="8878186979715711006">"Buscando..."</item>
@@ -294,5 +307,16 @@
     <item msgid="7389829271787670252">"Preguntar"</item>
     <item msgid="5077768429488260031">"No permitir nunca"</item>
     <item msgid="1417929597727989746">"Permitir siempre"</item>
+  </string-array>
+  <string-array name="notification_sound_limiter_entries">
+    <item>@string/notification_sound_default_time</item>
+    <item>3 segundos</item>
+    <item>5 segundos</item>
+    <item>10 segundos</item>
+    <item>15 segundos</item>
+    <item>30 segundos</item>
+    <item>45 segundos</item>
+    <item>1 minuto</item>
+    <item>2 minutos</item>
   </string-array>
 </resources>
